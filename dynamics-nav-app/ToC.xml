@@ -121,4 +121,9 @@
       <Node Name="SetUpPurchasers" DisplayName="How to: Set Up Purchasers" Page="purchasing-how-setup-purchasers.html"/>
     </Node>
   </Node>
+	<Node Name="QualityProcessManagement" DisplayName="Quality Process Management" page="qpm-overview.html">
+	  <Node Name="UsingQualityProcessManagement" DisplayName="Using Quality Process Management" page="qpm-overview.html"/>
+	  <Node Name="SetupQualityProcessManagemet" DisplayName="Setup Quality Process Management" page="qpm-setup.html" />
+	  <Node Name="QualityOrders" DisplayName="Quality Orders" page="qpm-quality-order.html" />
+	</Node>
 </Node>
